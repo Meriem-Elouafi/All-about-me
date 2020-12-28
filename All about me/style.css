@@ -1,0 +1,27 @@
+ body{background-color:#D8A7B1;}
+#QURAN{padding:30px ; border: solid; border-width: 20px ; border-radius: 100px 0px 100px 0px ; border-color: #211522 }
+#coco{padding: 30px;border: solid; border-width: 20px; border-color:   ;     float:   ;   margin: 15px;}
+#nono{padding: 30px;border: solid; border-width: 20px; border-color:   ;     float:   ;   margin: 15px;}
+#soso{padding: 30px;border: solid; border-width: 20px; border-color:   ;     float:   ;   margin: 15px;}
+#PrincessDaiana{border-radius: 10px 10px 10px 10px ; border-color: #D3B1C2 ; border-width: 20px }
+#Narnia{border-radius: 10px 10px 10px 10px ; border-color:#D3B1C2 ; border-width: 20px; float: none;}
+#flower{border-radius: 100px 0px 100px 0px ;border-color: #DACAC4}
+#flag{border-radius: 100px 0px 100px 0px ;border-color: #DACAC4}
+h1{color: #211522;float: auto ; font-size: 400% ; padding-left: 365px ;}
+h4{color: #211522;font-size: 40px}
+h2{color: #4B0082;font-size: 25px}
+h5{color: #211522;font-size: 40px}
+h3{color: #211522;font-size: 40px}
+.center { display: block ; margin-left: auto ; margin-right: auto;width: 50%; border-color: #FADCD9}
+.container ul{list-style:none;padding:0; margin:0;}
+.container li{position:relative;}
+.container a{display:block; padding:3px 12px; height:24px; line-height:24px; text-decoration:none; white-space:nowrap; background:#F9F1F0; color:#F79489;}
+.container a:hover{background:#A49393;color:#EED6D3;}
+.menu{ position:relative;*zoom:1;}
+.menu:after, .menu:before{content:'';display:table;line-height:0;}
+.menu:after{clear:both;}
+.menu > li{float:left; margin-right:4px; border:1px solid #DB7093}
+input[type=text], select, textarea {width: 100%;padding: 12px;border: 1px solid #ccc;border-radius: 4px;box-sizing: border-box;margin-top: 6px;margin-bottom: 16px;resize: vertical }
+input[type=submit] { background-color: #613659; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer;}
+input[type=submit]:hover {background-color: #C197D2;}
+.container {border-radius: 5px;background-color: #D3B1C2;padding: 20px;}
